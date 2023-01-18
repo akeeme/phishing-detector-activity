@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "subject": "Urgent: Confirm your account information",
+        "from": "noreply@wellsfargo.com",
+        "to": "john.doe@gmail.com",
+        "body": "Hello John,\n\nWe noticed some unusual activity on your account and we need you to confirm your account information to ensure that it's still secure. Please click on the following link to confirm your account:\n\nhttps://confirm-account.wellsfargo.com/\n\nIf you did not initiate this request, please contact us immediately.\n\nThank you,\nThe Wells Fargo Team"
+    },
+    {
+        "id": 2,
+        "subject": "You've won a prize!",
+        "from": "prizes@winning.com",
+        "to": "john.doe@gmail.com",
+        "body": "Congratulations john!\n\nYou have been selected as the winner of our latest prize draw! To claim your prize, please click on the following link and enter your personal information:\n\nhttps://claim-prize.winning.com/\n\nDon't miss out on your chance to win!\n\nBest regards,\nThe Winning Team"
+    },
+    {
+        "id": 3,
+        "subject": "Urgent: Your account has been compromised",
+        "from": "security@gmail.com",
+        "to": "joe.bloggs@gmail.com",
+        "body": "Dear Joe,\n\nWe have received reports that your account has been compromised. To protect your account, please click on the following link and change your password:\n\nhttps://change-password.gmail.com/\n\nIf you did not initiate this request, please contact us immediately.\n\nThanks,\nThe Gmail Security Team"
+    },
+    {
+        "id": 4,
+        "subject": "Next Week's Forecast",
+        "from": "forecast@weather.com",
+        "to": "john.doe@gmail.com",
+        "body": "Hello John,\n\nHere is the forecast for next week:\n\nMonday: Sunny\nTuesday: Cloudy\nWednesday: Rainy\nThursday: Sunny\nFriday: Sunny\nSaturday: Cloudy\nSunday: Sunny\n\nThanks,\nThe Weather Team"
+    },
+    {
+        "id": 5,
+        "subject": "Happy New Years",
+        "from": "jane.doe@gmail.com",
+        "to": "john.doe@gmail.com",
+        "body": "Hello John,\n\nHappy New Years! I hope you had a great holiday season. I'm looking forward to seeing you soon.\n\nBest regards,\nJane"
+    },
+    {
+        "id": 6,
+        "subject": "Invoice #123456",
+        "from": "invoices@acme.com",
+        "to": "joe.bloggs@gmail.com",
+        "body": "Dear Joe,\n\nPlease find attached your invoice #123456. If you have any questions or concerns, please contact us.\n\nThank you,\nThe ACME Team"
+    },
+    {
+        "id": 7,
+        "subject": "Congratulations on your new car!",
+        "from": "sales@toyota.com",
+        "to": "john.doe@gmail.com",
+        "body": "Hello John,\n\nCongratulations on your new car! You can acess your car's manual and warantty infomation by clicking on the following link:\n\nhttps://manual-warranty.toyota.com/\n\nThanks for choosing Toyota!\n\nBest regards,\nThe Toyota Team"
+    },
+    {
+        "id": 8,
+        "subject": "Your package has been delayed",
+        "from": "shipping@fedex.com",
+        "to": "john.doe@gmail.com",
+        "body": "Hello John,\n\nUnfortunately, your package has been delayed due to unforeseen circumstances. We apologize for the inconvenience. \n\nThanks,\nThe FedEx Team"
+    },
+    {
+        "id": 9,
+        "subject": "Important security update",
+        "from": "security@apple.com",
+        "to": "joe.bloggs@gmail.com",
+        "body": "Dear Joe,\n\nWe have released an important security update for your device. To install the update, please click on the following link:\n\nhttps://install-update.apple.com/\n\nThanks,\nThe Apple Team"
+    },
+    {
+        "id": 10,
+        "subject": "Happy Birthday",
+        "from": "mom@gmail.com",
+        "to": "john.doe@gmail.com",
+        "body": "Hey John,\n\nHappy Birthday! I hope you have a great day. I can't wait to see you soon.\n\nLove,\nMom"
+    }
+]

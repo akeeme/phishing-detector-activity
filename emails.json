@@ -36,7 +36,7 @@
     },
     {
         "id": 6,
-        "subject": "Invoice #123456",
+        "subject": "Thank You For your Order",
         "from": "invoices@acme.com",
         "to": "joe.bloggs@gmail.com",
         "body": "Dear Joe,\n\nPlease find attached your invoice #123456. If you have any questions or concerns, please contact us.\n\nThank you,\nThe ACME Team"

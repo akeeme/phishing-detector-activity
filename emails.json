@@ -46,7 +46,7 @@
         "subject": "Congratulations on your new car!",
         "from": "sales@toyota.com",
         "to": "john.doe@gmail.com",
-        "body": "Hello John,\n\nCongratulations on your new car! You can acess your car's manual and warantty infomation by clicking on the following link:\n\nhttps://manual-warranty.toyota.com/\n\nThanks for choosing Toyota!\n\nBest regards,\nThe Toyota Team"
+        "body": "Hello John,\n\nCongratulations on your new car! You can acess your car's manual and warantty infomation by clicking on the following link:\n\nhttps://manual-warranty.toyoto.com/\n\nThanks for choosing Toyota!\n\nBest regards,\nThe Toyota Team"
     },
     {
         "id": 8,
@@ -58,7 +58,7 @@
     {
         "id": 9,
         "subject": "Important security update",
-        "from": "security@apple.com",
+        "from": "security@applle.com",
         "to": "joe.bloggs@gmail.com",
         "body": "Dear Joe,\n\nWe have released an important security update for your device. To install the update, please click on the following link:\n\nhttps://install-update.apple.com/\n\nThanks,\nThe Apple Team"
     },
